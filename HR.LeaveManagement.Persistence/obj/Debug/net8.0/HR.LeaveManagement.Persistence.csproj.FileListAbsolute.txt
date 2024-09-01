@@ -1,0 +1,17 @@
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Persistence.deps.json
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Persistence.dll
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Persistence.pdb
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Application.dll
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Application.pdb
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.csproj.AssemblyReference.cache
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.AssemblyInfo.cs
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.csproj.CopyComplete
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.dll
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\refint\HR.LeaveManagement.Persistence.dll
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.pdb
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\ref\HR.LeaveManagement.Persistence.dll

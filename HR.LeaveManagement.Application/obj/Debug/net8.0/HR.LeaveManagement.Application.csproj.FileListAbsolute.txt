@@ -1,0 +1,15 @@
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Application.deps.json
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Application.dll
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Application.pdb
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.csproj.CopyComplete
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.dll
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\refint\HR.LeaveManagement.Application.dll
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.pdb
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\ref\HR.LeaveManagement.Application.dll
