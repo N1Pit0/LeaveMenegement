@@ -15,3 +15,6 @@ C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persis
 C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\refint\HR.LeaveManagement.Persistence.dll
 C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.pdb
 C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\ref\HR.LeaveManagement.Persistence.dll
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.sourcelink.json
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Persistence.runtimeconfig.json
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.genruntimeconfig.cache
