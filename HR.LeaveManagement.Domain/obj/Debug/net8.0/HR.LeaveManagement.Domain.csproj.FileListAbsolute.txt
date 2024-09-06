@@ -10,3 +10,4 @@ C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain
 C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\refint\HR.LeaveManagement.Domain.dll
 C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.pdb
 C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\ref\HR.LeaveManagement.Domain.dll
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.sourcelink.json

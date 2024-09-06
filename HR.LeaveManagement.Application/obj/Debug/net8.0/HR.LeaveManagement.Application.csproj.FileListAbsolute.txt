@@ -13,3 +13,4 @@ C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Applic
 C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\refint\HR.LeaveManagement.Application.dll
 C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.pdb
 C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\ref\HR.LeaveManagement.Application.dll
+C:\Users\N1Pit0\RiderProjects\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.sourcelink.json
